@@ -11,12 +11,12 @@ Phishing is a cyberattack method employed by malicious actors who impersonate au
 
 ### Steps:
 
-0: Install necessary packages mentioned in "installation_package_version.txt"
+0: Install necessary packages mentioned in [installation_package_version.txt](https://github.com/ESDAUNG/PhiSN/blob/main/installation_package_version.txt)
 
-1: Segment URLs using SegURLizer algorithm
+1: Segment URLs using [SegURLizer algorithm](https://github.com/ESDAUNG/PhiSN/blob/main/step1_SegURLizer.py)
 
-2: Cross-validate data
+2: [Cross-validate data](https://github.com/ESDAUNG/PhiSN/blob/main/step2_cvByIndex.py)
 
-3: Trian and Test Hybrid model, i.e., connected from Segmentation-based BiLSTM and NLP-based DNN
+3: Trian and Test [Hybrid model](https://github.com/ESDAUNG/PhiSN/blob/main/Step3_AU-H-BiLSTMDNN.py), i.e., connected from Segmentation-based BiLSTM and NLP-based DNN
 
-4: Trian and Test Hybrid model, i.e., connected from Segmentation-based LSTM and NLP-based DNN
+4: Trian and Test [Hybrid model](https://github.com/ESDAUNG/PhiSN/blob/main/Step3_AU-H-LSTMDNN.py), i.e., connected from Segmentation-based LSTM and NLP-based DNN
