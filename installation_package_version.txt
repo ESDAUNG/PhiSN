@@ -1,0 +1,19 @@
+dill			0.3.8	[OPTIONAL]
+imbalanced-learn	0.9.0	[OPTIONAL]
+keras			2.4.3
+keras-tuner		1.0.3
+matplotlib		3.5.1
+numba			0.53.1
+numpy			1.19.5
+pandas			1.2.0
+pyenchant		3.2.0
+python			3.8.5
+python-whois		0.7.3	[OPTIONAL]
+scikit-learn		1.0.2
+scipy			1.6.0
+tensorflow		2.4.1
+tld			0.12.6
+transformers		4.6.1
+umap-learn		0.5.3	[OPTIONAL]
+whois			0.9.13	[OPTIONAL]
+wordsegment		1.3.1
